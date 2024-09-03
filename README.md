@@ -1,12 +1,12 @@
 # YouTube Video Transcription with OpenAI's Whisper
     
-[![License](https://img.shields.io/github/license/kazuki-sf/youtube-whisper)](https://github.com/kazuki-sf/youtube-whisper)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kazuki-sf/youtube-whisper/blob/main/youtube_whisper.ipynb)
+[![License](https://img.shields.io/github/license/kazuki-sf/youtube-whisper)](https://github.com/Ricepaste/youtube-whisper/blob/main/LICENSE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ricepaste/youtube-whisper/blob/main/youtube_whisper.ipynb)
 
 This is a simple example of how to use OpenAI's Whisper to transcribe a YouTube video and shorts. The code is written in Python and can be run on Google Colab. The notebook will guide you through the process of transcribing a YouTube video or shorts using OpenAI's Whisper.
 
 ## How to Use
-1. Open the [Google Colab](https://colab.research.google.com/github/kazuki-sf/youtube-whisper/blob/main/youtube_whisper.ipynb) page.
+1. Open the [Google Colab](https://colab.research.google.com/github/Ricepaste/youtube-whisper/blob/main/youtube_whisper.ipynb) page.
 2. Feel free to `Copy to Drive` the notebook or run it directly.
 3. Enter the URL of the YouTube video or shorts you want to transcribe.
 4. Choose the whisper model you want to use.
